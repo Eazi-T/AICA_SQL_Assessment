@@ -1,0 +1,151 @@
+customer_id,first_name,last_name,email,phone,city,state,signup_date,customer_segment
+1,Kemi,Nwankwo,kemi.nwankwo@example.com,07211755002,Lagos,Lagos,2023-02-24,Retail
+2,Zainab,Garba,zainab.garba@example.com,02580863193,Benin City,Edo,2023-07-09,Retail
+3,Blessing,Bankole,blessing.bankole@example.com,02041902683,Warri,Delta,2024-01-29,SME
+4,Adaeze,Okoro,adaeze.okoro@example.com,02021263322,Awka,Anambra,2023-05-27,Retail
+5,Segun,Garba,segun.garba@example.com,02429623708,Asaba,Delta,2024-10-08,Retail
+6,Chioma,Chukwu,chioma.chukwu@example.com,08363942252,Abeokuta,Ogun,2025-05-27,SME
+7,Michael,Danjuma,michael.danjuma@example.com,09147811653,Gwarinpa,FCT,2025-08-16,Retail
+8,Olumide,Okafor,olumide.okafor@example.com,07652614498,Calabar,Cross River,2024-06-23,Corporate
+9,Adebola,Adewale,adebola.adewale@example.com,09826617575,Jos,Plateau,2023-01-02,Retail
+10,Uche,Adeyemi,uche.adeyemi@example.com,09883089040,Surulere,Lagos,2025-12-26,SME
+11,Bola,Iheanacho,bola.iheanacho@example.com,01569976736,Uyo,Akwa Ibom,2025-02-03,Retail
+12,Nneka,Sani,nneka.sani@example.com,02005507000,Surulere,Lagos,2024-11-07,Retail
+13,Ibrahim,Akinyemi,ibrahim.akinyemi@example.com,04578524406,Calabar,Cross River,2024-12-26,Retail
+14,Kelechi,Okonkwo,kelechi.okonkwo@example.com,06607811511,Calabar,Cross River,2025-08-05,Retail
+15,Chioma,Sani,chioma.sani@example.com,08509899814,Sokoto,Sokoto,2024-03-13,SME
+16,Folashade,Okonkwo,folashade.okonkwo@example.com,03927449957,Ajah,Lagos,2023-11-14,Retail
+17,Taiwo,Okonkwo,taiwo.okonkwo@example.com,07030495058,Abeokuta,Ogun,2023-05-21,Retail
+18,Ayotunde,Balogun,ayotunde.balogun@example.com,01825645592,Enugu,Enugu,2024-10-05,Retail
+19,Michael,Adeleke,michael.adeleke@example.com,06499065055,Calabar,Cross River,2023-09-29,Corporate
+20,Obiora,Ibrahim,obiora.ibrahim@example.com,03187696082,Gwarinpa,FCT,2023-08-01,Corporate
+21,Bola,Yusuf,bola.yusuf@example.com,08712236852,Surulere,Lagos,2023-04-15,Retail
+22,Samuel,Akinyemi,samuel.akinyemi@example.com,00762754008,Ikeja,Lagos,2023-11-02,Retail
+23,Tijani,Danjuma,tijani.danjuma@example.com,05403990366,Abeokuta,Ogun,2024-12-25,SME
+24,Obiora,Abdullahi,obiora.abdullahi@example.com,07921714197,Warri,Delta,2025-04-23,SME
+25,Chukwudi,Balogun,chukwudi.balogun@example.com,01730419388,Wuse,FCT,2024-04-01,Retail
+26,Kehinde,Oladipo,kehinde.oladipo@example.com,02073568308,Ibadan,Oyo,2024-06-18,Retail
+27,Aisha,Bello,aisha.bello@example.com,05374918104,Surulere,Lagos,2025-11-30,Corporate
+28,Ada,Lawal,ada.lawal@example.com,04996619563,Kano,Kano,2024-08-28,Retail
+29,Kehinde,Abdullahi,kehinde.abdullahi@example.com,09696350245,Calabar,Cross River,2024-10-21,Retail
+30,David,Chukwu,david.chukwu@example.com,04971056387,Jos,Plateau,2024-09-27,Retail
+31,Kehinde,Mohammed,kehinde.mohammed@example.com,00967485733,Lagos,Lagos,2023-10-30,Retail
+32,Chinedu,Ojo,chinedu.ojo@example.com,04195028486,Awka,Anambra,2024-10-11,Corporate
+33,Folashade,Sani,folashade.sani@example.com,08849418478,Warri,Delta,2024-07-21,SME
+34,Nneka,Adebayo,nneka.adebayo@example.com,02472380131,Onitsha,Anambra,2024-03-14,Retail
+35,Grace,Nnaji,grace.nnaji@example.com,04083790854,Uyo,Akwa Ibom,2024-12-21,Retail
+36,Victor,Abdullahi,victor.abdullahi@example.com,07562240364,Uyo,Akwa Ibom,2023-12-05,SME
+37,Bola,Garba,bola.garba@example.com,09560481234,Lagos,Lagos,2024-11-22,SME
+38,Victor,Akinyemi,victor.akinyemi@example.com,09484709209,Awka,Anambra,2023-03-24,SME
+39,Ibrahim,Lawal,ibrahim.lawal@example.com,00116526716,Maiduguri,Borno,2023-08-23,SME
+40,Segun,Aliyu,segun.aliyu@example.com,05959391582,Surulere,Lagos,2024-09-09,SME
+41,Tobi,Nwankwo,tobi.nwankwo@example.com,09734353881,Sokoto,Sokoto,2025-01-11,Retail
+42,Tijani,Ogundimu,tijani.ogundimu@example.com,01156697485,Ilorin,Kwara,2024-10-22,SME
+43,Tijani,Eze,tijani.eze@example.com,08246308127,Wuse,FCT,2024-11-28,Retail
+44,Tobi,Akinyemi,tobi.akinyemi@example.com,00907476647,Uyo,Akwa Ibom,2023-07-10,Retail
+45,Michael,Balogun,michael.balogun@example.com,06353953432,Port Harcourt,Rivers,2024-01-30,Retail
+46,Sade,Garba,sade.garba@example.com,06172575982,Awka,Anambra,2025-01-09,Retail
+47,Chinedu,Garba,chinedu.garba@example.com,02956184854,Yaba,Lagos,2025-06-21,Retail
+48,Emeka,Yusuf,emeka.yusuf@example.com,01045618902,Owerri,Imo,2025-05-02,Retail
+49,Oluchi,Okoro,oluchi.okoro@example.com,05448936679,Awka,Anambra,2024-03-01,Retail
+50,Aisha,Eze,aisha.eze@example.com,02514640228,Ajah,Lagos,2023-05-26,Retail
+51,Aisha,Tijani,aisha.tijani@example.com,08112121075,Calabar,Cross River,2024-08-14,Retail
+52,Kelechi,Aliyu,kelechi.aliyu@example.com,04254587602,Ilorin,Kwara,2023-02-12,Corporate
+53,Ayotunde,Akinyemi,ayotunde.akinyemi@example.com,00746915640,Abeokuta,Ogun,2024-12-13,Retail
+54,Halima,Ojo,halima.ojo@example.com,03629854339,Ajah,Lagos,2025-04-07,SME
+55,Maryam,Okafor,maryam.okafor@example.com,08405644021,Calabar,Cross River,2024-08-12,Retail
+56,Rukayat,Adebayo,rukayat.adebayo@example.com,00677304281,Surulere,Lagos,2023-08-29,Retail
+57,Funke,Adebayo,funke.adebayo@example.com,02744441157,Ilorin,Kwara,2023-10-07,SME
+58,Musa,Abdullahi,musa.abdullahi@example.com,09582259415,Ibadan,Oyo,2024-12-07,Retail
+59,Adebola,Garba,adebola.garba@example.com,04316527077,Enugu,Enugu,2025-02-19,Retail
+60,Chinyere,Mohammed,chinyere.mohammed@example.com,09193180901,Owerri,Imo,2023-11-13,Retail
+61,Oluchi,Yusuf,oluchi.yusuf@example.com,06303659684,Ibadan,Oyo,2023-03-15,Retail
+62,Ibrahim,Umeh,ibrahim.umeh@example.com,07406846907,Gwarinpa,FCT,2024-08-23,Retail
+63,Samuel,Mohammed,samuel.mohammed@example.com,05571086291,Gwarinpa,FCT,2025-08-02,Retail
+64,Kelechi,Yusuf,kelechi.yusuf@example.com,00896143564,Calabar,Cross River,2024-05-27,Retail
+65,Aminu,Lawal,aminu.lawal@example.com,08133260830,Enugu,Enugu,2023-04-11,SME
+66,Sade,Adebayo,sade.adebayo@example.com,09276366676,Maiduguri,Borno,2023-10-08,Retail
+67,Folashade,Bello,folashade.bello@example.com,07031934278,Port Harcourt,Rivers,2025-01-19,Retail
+68,Musa,Obi,musa.obi@example.com,09992884072,Wuse,FCT,2025-03-24,Corporate
+69,Onyeka,Achebe,onyeka.achebe@example.com,00321372363,Kano,Kano,2024-04-23,Retail
+70,Wale,Achebe,wale.achebe@example.com,09208934193,Ibadan,Oyo,2025-10-05,Retail
+71,Ibrahim,Garba,ibrahim.garba@example.com,03396557868,Yaba,Lagos,2025-04-15,Corporate
+72,Musa,Bello,musa.bello@example.com,03498065933,Ilorin,Kwara,2024-01-24,Corporate
+73,Suleiman,Ogundimu,suleiman.ogundimu@example.com,06650721507,Lekki,Lagos,2024-02-29,Retail
+74,Maryam,Okoro,maryam.okoro@example.com,07752995718,Ibadan,Oyo,2023-09-27,Retail
+75,Oluchi,Balogun,oluchi.balogun@example.com,03107574751,Abeokuta,Ogun,2025-10-28,Retail
+76,Wale,Bello,wale.bello@example.com,07854904464,Asaba,Delta,2025-06-27,Retail
+77,Ifeanyi,Ogunleye,ifeanyi.ogunleye@example.com,01165735254,Warri,Delta,2023-08-23,SME
+78,Seun,Achebe,seun.achebe@example.com,08484837332,Asaba,Delta,2023-11-09,Retail
+79,Obinna,Ibrahim,obinna.ibrahim@example.com,08007855531,Lekki,Lagos,2024-12-25,SME
+80,Adebola,Onwuachu,adebola.onwuachu@example.com,00231514835,Asaba,Delta,2023-08-24,SME
+81,Abiodun,Okoro,abiodun.okoro@example.com,04576656660,Sokoto,Sokoto,2024-07-13,SME
+82,Aminu,Nnaji,aminu.nnaji@example.com,00854160724,Kano,Kano,2024-11-29,Retail
+83,Aminu,Ogunleye,aminu.ogunleye@example.com,09581700446,Awka,Anambra,2025-04-28,Retail
+84,Adebola,Olawale,adebola.olawale@example.com,03165532902,Surulere,Lagos,2024-03-08,SME
+85,Adebola,Yusuf,adebola.yusuf@example.com,03071375880,Port Harcourt,Rivers,2023-03-28,Retail
+86,Kelechi,Ibrahim,kelechi.ibrahim@example.com,05574103868,Ibadan,Oyo,2025-01-11,Retail
+87,Suleiman,Ojo,suleiman.ojo@example.com,04408727065,Gwarinpa,FCT,2024-02-02,SME
+88,Blessing,Bankole,blessing.bankole2@example.com,09611211709,Asaba,Delta,2025-10-08,Retail
+89,Abiodun,Tijani,abiodun.tijani@example.com,06869393446,Kaduna,Kaduna,2024-07-16,Retail
+90,Blessing,Olawale,blessing.olawale@example.com,03408088654,Lekki,Lagos,2023-03-26,Retail
+91,Onyeka,Okolie,onyeka.okolie@example.com,01659488906,Onitsha,Anambra,2023-03-22,Retail
+92,David,Sani,david.sani@example.com,05132435760,Jos,Plateau,2023-07-13,Retail
+93,Victor,Umeh,victor.umeh@example.com,07698351396,Wuse,FCT,2025-03-13,Retail
+94,Zainab,Eze,zainab.eze@example.com,05631799906,Port Harcourt,Rivers,2025-11-07,Retail
+95,Joy,Aliyu,joy.aliyu@example.com,09371912755,Ajah,Lagos,2025-12-14,Retail
+96,Bashir,Adeleke,bashir.adeleke@example.com,03187814462,Warri,Delta,2025-06-28,Retail
+97,Adebola,Sani,adebola.sani@example.com,05384839942,Gwarinpa,FCT,2025-02-21,Retail
+98,Grace,Obi,grace.obi@example.com,01680439751,Maiduguri,Borno,2023-06-21,SME
+99,Musa,Sani,musa.sani@example.com,01492430052,Jos,Plateau,2023-06-17,Retail
+100,Ngozi,Ogunleye,ngozi.ogunleye@example.com,08671286174,Surulere,Lagos,2023-01-11,SME
+101,Ngozi,Yusuf,ngozi.yusuf@example.com,08575123047,Abuja,FCT,2025-07-25,Retail
+102,Tijani,Adebayo,tijani.adebayo@example.com,05657203516,Warri,Delta,2025-12-08,Corporate
+103,Chioma,Nwachukwu,chioma.nwachukwu@example.com,05953469207,Uyo,Akwa Ibom,2024-12-07,Retail
+104,Chinyere,Ojo,chinyere.ojo@example.com,05713368694,Awka,Anambra,2024-01-09,SME
+105,Chioma,Ogundimu,chioma.ogundimu@example.com,02010959527,Ikeja,Lagos,2024-01-27,Retail
+106,Chukwudi,Okonkwo,chukwudi.okonkwo@example.com,03138783944,Onitsha,Anambra,2025-11-29,Retail
+107,Ifeanyi,Onwuachu,ifeanyi.onwuachu@example.com,04912132471,Lekki,Lagos,2025-06-28,Retail
+108,Adaeze,Bankole,adaeze.bankole@example.com,09299063869,Warri,Delta,2023-10-20,SME
+109,Ayotunde,Sani,ayotunde.sani@example.com,01263901434,Ikeja,Lagos,2023-06-07,Retail
+110,Nneka,Danjuma,nneka.danjuma@example.com,03290159177,Enugu,Enugu,2024-03-15,Corporate
+111,Fatima,Adebayo,fatima.adebayo@example.com,01848406833,Abuja,FCT,2023-05-13,Retail
+112,Fatima,Aliyu,fatima.aliyu@example.com,07967512170,Ajah,Lagos,2025-01-25,Retail
+113,Olumide,Adeleke,olumide.adeleke@example.com,08037444513,Warri,Delta,2023-06-01,Retail
+114,Ayotunde,Nwachukwu,ayotunde.nwachukwu@example.com,01855715885,Kano,Kano,2024-09-14,Retail
+115,Halima,Okoro,halima.okoro@example.com,09520192660,Kano,Kano,2023-12-12,Retail
+116,Damilola,Mohammed,damilola.mohammed@example.com,06768580065,Ajah,Lagos,2024-03-07,SME
+117,Grace,Adeyemi,grace.adeyemi@example.com,08563284461,Owerri,Imo,2025-05-01,Retail
+118,Taiwo,Nnaji,taiwo.nnaji@example.com,01839337512,Warri,Delta,2023-09-08,Retail
+119,Ibrahim,Mohammed,ibrahim.mohammed@example.com,00984998971,Surulere,Lagos,2023-11-23,Retail
+120,Chidi,Ogundimu,chidi.ogundimu@example.com,08403425025,Owerri,Imo,2025-08-21,Retail
+121,Chinedu,Ojo,chinedu.ojo2@example.com,01234005323,Benin City,Edo,2025-07-11,SME
+122,Musa,Nwankwo,musa.nwankwo@example.com,09373971550,Yaba,Lagos,2023-10-08,SME
+123,Onyeka,Iheanacho,onyeka.iheanacho@example.com,04653619723,Jos,Plateau,2025-11-09,Retail
+124,Zainab,Okolie,zainab.okolie@example.com,04031438865,Port Harcourt,Rivers,2024-06-27,Corporate
+125,Oluchi,Tijani,oluchi.tijani@example.com,02045773825,Abeokuta,Ogun,2023-08-14,Retail
+126,David,Ogunleye,david.ogunleye@example.com,01647987012,Benin City,Edo,2024-10-27,Corporate
+127,Obinna,Nwachukwu,obinna.nwachukwu@example.com,03193377666,Enugu,Enugu,2024-01-29,Corporate
+128,Musa,Achebe,musa.achebe@example.com,02922273397,Port Harcourt,Rivers,2024-07-14,Retail
+129,Abiodun,Garba,abiodun.garba@example.com,08337109096,Enugu,Enugu,2025-09-08,Retail
+130,Maryam,Garba,maryam.garba@example.com,09616526560,Wuse,FCT,2025-04-26,Retail
+131,Obinna,Ojo,obinna.ojo@example.com,07059498419,Calabar,Cross River,2024-10-19,Retail
+132,Emeka,Eze,emeka.eze@example.com,05579918199,Onitsha,Anambra,2025-03-24,SME
+133,Yemi,Umeh,yemi.umeh@example.com,00519295498,Ikeja,Lagos,2025-08-16,Retail
+134,Onyeka,Nwankwo,onyeka.nwankwo@example.com,01421775718,Ibadan,Oyo,2025-04-10,SME
+135,Chidi,Ogunleye,chidi.ogunleye@example.com,04094903423,Lekki,Lagos,2023-01-24,Retail
+136,Joy,Balogun,joy.balogun@example.com,06416987669,Ikeja,Lagos,2025-01-22,Retail
+137,Folake,Adeleke,folake.adeleke@example.com,01764545622,Owerri,Imo,2023-06-17,Retail
+138,Nneka,Danjuma,nneka.danjuma2@example.com,09189251846,Lekki,Lagos,2025-09-28,Retail
+139,Chidi,Sani,chidi.sani@example.com,00145563020,Sokoto,Sokoto,2024-03-22,Retail
+140,Adaeze,Onwuachu,adaeze.onwuachu@example.com,07508942116,Kano,Kano,2025-05-10,Retail
+141,Folashade,Nwosu,folashade.nwosu@example.com,08936656315,Kaduna,Kaduna,2025-12-19,Retail
+142,Folake,Okafor,folake.okafor@example.com,00265582329,Awka,Anambra,2023-08-20,Retail
+143,Chinyere,Abdullahi,chinyere.abdullahi@example.com,07802105707,Warri,Delta,2025-04-03,Retail
+144,Ada,Chukwu,ada.chukwu@example.com,08052873563,Awka,Anambra,2024-09-10,SME
+145,Chinyere,Nwachukwu,chinyere.nwachukwu@example.com,04255716503,Gwarinpa,FCT,2025-02-19,SME
+146,Halima,Abdullahi,halima.abdullahi@example.com,01374837895,Benin City,Edo,2025-05-03,Retail
+147,Bola,Nwosu,bola.nwosu@example.com,02304358036,Gwarinpa,FCT,2023-03-22,SME
+148,Kehinde,Tijani,kehinde.tijani@example.com,06229392177,Asaba,Delta,2025-09-07,SME
+149,Rukayat,Ademola,rukayat.ademola@example.com,02957353254,Ilorin,Kwara,2023-07-21,SME
+150,Hauwa,Iheanacho,hauwa.iheanacho@example.com,08934521295,Awka,Anambra,2025-05-05,Retail

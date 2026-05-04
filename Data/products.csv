@@ -1,0 +1,41 @@
+product_id,product_name,category,subcategory,unit_price,stock_quantity,supplier
+1,Samsung Galaxy A15,Electronics,Phones,185000,230,Samsung NG
+2,iPhone 13 128GB,Electronics,Phones,650000,367,SLOT Systems
+3,iPhone 15 Pro,Electronics,Phones,1250000,265,SLOT Systems
+4,Tecno Spark 10,Electronics,Phones,145000,418,Tecno Mobile
+5,Infinix Hot 40,Electronics,Phones,165000,9,Infinix NG
+6,Itel A70,Electronics,Phones,85000,541,Itel NG
+7,HP Laptop 15s,Electronics,Computers,520000,593,HP Nigeria
+8,Dell Inspiron 14,Electronics,Computers,680000,375,Dell NG
+9,MacBook Air M2,Electronics,Computers,1450000,293,SLOT Systems
+10,Lenovo ThinkPad X1,Electronics,Computers,950000,530,Lenovo NG
+11,Hisense 43in Smart TV,Electronics,Television,395000,532,Hisense NG
+12,LG 32in LED TV,Electronics,Television,245000,501,LG Nigeria
+13,Samsung 40in Smart TV,Electronics,Television,385000,202,Samsung NG
+14,Oraimo 20000mAh Powerbank,Electronics,Accessories,18500,13,Oraimo
+15,Oraimo Freepods 3,Electronics,Accessories,28500,203,Oraimo
+16,JBL Bluetooth Speaker,Electronics,Accessories,55000,173,JBL NG
+17,Logitech Wireless Mouse,Electronics,Accessories,9800,589,Logitech NG
+18,Ankara Fabric 6 Yards,Fashion,Textiles,12000,530,ABC Wax
+19,Adire Fabric 6 Yards,Fashion,Textiles,18500,218,Abeokuta Adire
+20,Men Senator Wear Set,Fashion,Menswear,35000,585,Lagos Tailors
+21,Agbada Set (3pc),Fashion,Menswear,85000,90,Lagos Tailors
+22,Ladies Abaya,Fashion,Womenswear,28000,566,Kano Textiles
+23,Ladies Iro and Buba Set,Fashion,Womenswear,55000,64,Lagos Tailors
+24,Leather Sandals,Fashion,Footwear,15500,4,Aba Leather Co
+25,Men Leather Shoes,Fashion,Footwear,32000,79,Aba Leather Co
+26,Sneakers Unisex,Fashion,Footwear,28000,36,Konga Fashion
+27,Binatone Blender BL-410,Home & Kitchen,Appliances,32000,452,Binatone
+28,Thermocool Fridge 200L,Home & Kitchen,Appliances,285000,170,Haier Thermocool
+29,Gas Cooker 4 Burner,Home & Kitchen,Appliances,180000,266,Maxi Gas
+30,Electric Kettle 1.7L,Home & Kitchen,Appliances,18500,99,Binatone
+31,Non-stick Pots Set,Home & Kitchen,Cookware,42000,184,Tower NG
+32,Indomie Carton (40 packs),Groceries,Food,8800,39,Dufil Prima
+33,Peak Milk Powder 900g,Groceries,Food,9500,8,FrieslandCampina
+34,Golden Penny Flour 10kg,Groceries,Food,14500,547,Flour Mills NG
+35,Mamador Oil 3L,Groceries,Food,7800,496,PZ Wilmar
+36,Dangote Sugar 50kg,Groceries,Food,48000,412,Dangote Foods
+37,Nivea Body Lotion 400ml,Beauty,Skincare,5500,91,Nivea NG
+38,Tura Soap (4 pack),Beauty,Skincare,3200,17,Tura Cosmetics
+39,Office Chair Executive,Office,Furniture,78000,529,Office Mart
+40,A4 Copy Paper (carton),Office,Supplies,26000,46,Paper Plus

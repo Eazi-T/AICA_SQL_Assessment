@@ -1,0 +1,21 @@
+employee_id,first_name,last_name,department,hire_date,salary,manager_id,city
+1,Adaeze,Okafor,Sales,2021-03-15,950000,,Lagos
+2,Ibrahim,Bello,Operations,2020-07-01,1050000,,Abuja
+3,Folake,Adeyemi,Customer Support,2022-01-10,780000,,Lagos
+4,Chukwudi,Obi,Logistics,2020-11-20,920000,,Port Harcourt
+5,Hauwa,Yusuf,Finance,2019-05-08,1100000,,Abuja
+6,Chinedu,Garba,Sales,2024-04-22,280000,1,Lagos
+7,Nneka,Akinyemi,Sales,2025-01-02,1020000,1,Lagos
+8,Chidi,Onwuachu,Sales,2023-01-03,320000,1,Lagos
+9,Nneka,Mohammed,Sales,2023-05-09,420000,1,Enugu
+10,Nneka,Yusuf,Sales,2023-12-27,460000,1,Ibadan
+11,Ifeanyi,Danjuma,Sales,2024-04-11,980000,1,Enugu
+12,Ibrahim,Okoro,Operations,2023-09-07,320000,2,Kano
+13,Suleiman,Bello,Operations,2022-07-11,560000,2,Ibadan
+14,Victor,Achebe,Operations,2024-09-01,280000,2,Kano
+15,Chinedu,Obi,Customer Support,2022-06-19,610000,3,Ibadan
+16,Seun,Nnaji,Customer Support,2022-07-15,680000,3,Lagos
+17,Folake,Chukwu,Logistics,2024-08-31,460000,4,Lagos
+18,Chioma,Akinyemi,Logistics,2022-03-09,380000,4,Port Harcourt
+19,Ngozi,Chukwu,Finance,2022-10-23,560000,5,Lagos
+20,Aminu,Obi,Finance,2023-05-08,560000,5,Kano
